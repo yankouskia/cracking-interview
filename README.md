@@ -4,3 +4,4 @@ The repository is build for 30 days challenge on top of suggestions / tasks reco
 
 - __[DAY 1. Arrays and Strings](https://github.com/yankouskia/cracking-interview/tree/master/DAY%201/)__
 - __[DAY 2. Arrays and Strings](https://github.com/yankouskia/cracking-interview/tree/master/DAY%202/)__
+- __[DAY 3. Linked Lists](https://github.com/yankouskia/cracking-interview/tree/master/DAY%203/)__
