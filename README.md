@@ -9,3 +9,4 @@ The repository is build for 30 days challenge on top of suggestions / tasks reco
 - __[DAY 5. Trees and Graphs](https://github.com/yankouskia/cracking-interview/tree/master/DAY%205/)__
 - __[DAY 6. Trees and Graphs](https://github.com/yankouskia/cracking-interview/tree/master/DAY%206/)__
 - __[DAY 7. Trees and Graphs](https://github.com/yankouskia/cracking-interview/tree/master/DAY%207/)__
+- __[DAY 8. Trees and Graphs](https://github.com/yankouskia/cracking-interview/tree/master/DAY%208/)__
