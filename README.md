@@ -15,3 +15,4 @@ The repository is build for 30 days challenge on top of suggestions / tasks reco
 - __[DAY 11. Bit Manipulation](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2011/)__
 - __[DAY 12. Math and Logic Puzzles](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2012/)__
 - __[DAY 13. Math and Logic Puzzles](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2013/)__
+- __[DAY 14. Math and Logic Puzzles](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2014/)__
