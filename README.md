@@ -16,3 +16,4 @@ The repository is build for 30 days challenge on top of suggestions / tasks reco
 - __[DAY 12. Math and Logic Puzzles](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2012/)__
 - __[DAY 13. Math and Logic Puzzles](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2013/)__
 - __[DAY 14. Math and Logic Puzzles](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2014/)__
+- __[DAY 15. Object-Oriented design](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2015/)__
