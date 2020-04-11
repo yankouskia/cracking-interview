@@ -6,7 +6,7 @@ List of tasks:
   *Write a method to return all subsets of a set.*  
 
 - [Recursive Multiply](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2017/RecursiveMultiply.java)  
-  *Write a recursive function to multiply two positive integers without using the * operator (or / operator). You can use addition, subtraction, and bit shifting, but you should minimize the number of those operations. *  
+  *Write a recursive function to multiply two positive integers without using the * operator (or / operator). You can use addition, subtraction, and bit shifting, but you should minimize the number of those operations.*  
 
 - [Towers of Hanoi](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2017/TowersOfHanoi.java)  
   *In the classic problem of the Towers of Hanoi, you have 3 towers and N disks of different sizes which can slide onto any tower. The puzzle starts with disks sorted in ascending order of size from top to bottom (i.e., each disk sits on top of an even larger one). You have the following constraints:  

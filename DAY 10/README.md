@@ -3,7 +3,7 @@
 List of tasks:
 
 - [Next Number](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2010/NextNumber.java)  
-  *Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in their binary representation. *  
+  *Given a positive integer, print the next smallest and the next largest number that have the same number of 1 bits in their binary representation.*  
 
 - [Debugger](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2010/Debugger.java)  
   *Explain what the following code does: ((n& (n-1)) ==0).*  
