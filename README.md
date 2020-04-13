@@ -26,3 +26,4 @@ The repository is build for 30 days challenge on top of suggestions / tasks reco
 - __[DAY 22. Sorting and Searching](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2022/)__
 - __[DAY 23. Sorting and Searching](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2023/)__
 - __[DAY 24. Sorting and Searching](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2024/)__
+- __[DAY 25. C and C++](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2025/)__
