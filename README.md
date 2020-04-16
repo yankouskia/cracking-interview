@@ -29,3 +29,4 @@ The repository is build for 30 days challenge on top of suggestions / tasks reco
 - __[DAY 25. C and C++](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2025/)__
 - __[DAY 26. C and C++](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2026/)__
 - __[DAY 27. C and C++](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2027/)__
+- __[DAY 28. Java](https://github.com/yankouskia/cracking-interview/tree/master/DAY%2028/)__
